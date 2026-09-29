@@ -20,4 +20,4 @@ A simple AI chatbot built using **Python, Streamlit, and Google Gemini API**.
 pip install -r requirements.txt
 streamlit run APP.PY
 
-.env filed are ignored for privacy and security.
+
